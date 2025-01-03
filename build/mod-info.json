@@ -12,11 +12,11 @@
   },
   "modsConfig": {
     "moreMenu": {
-      "displayName": "More Menu Mod",
+      "displayName": "Geometry Dash",
       "hasUrl": true,
-      "url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff/main/modloadercode.js",
+      "url": "https://raw.githubusercontent.com/FTearsOfJoy/GoogleSnakeCustomMenuStuff/refs/heads/main/modloadercode.js",
       "modDescription": {
-        "descriptionName": "More Menu Mod",
+        "descriptionName": "Geometry Dash",
         "authors": [
           {
             "name": "Fizhes",
